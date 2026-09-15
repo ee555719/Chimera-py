@@ -1,0 +1,9 @@
+{
+  "id": "hello",
+  "name": "Hello World",
+  "version": "1.0.0",
+  "description": "A simple Hello World plugin",
+  "author": "Chimera",
+  "enabled": true,
+  "permissions": ["ui"]
+}
