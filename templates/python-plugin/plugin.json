@@ -1,0 +1,9 @@
+{
+  "id": "{{PLUGIN_ID}}",
+  "name": "{{PLUGIN_NAME}}",
+  "version": "0.1.0",
+  "description": "{{PLUGIN_DESCRIPTION}}",
+  "author": "{{PLUGIN_AUTHOR}}",
+  "enabled": true,
+  "permissions": []
+}
